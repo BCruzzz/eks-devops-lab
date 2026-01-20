@@ -157,13 +157,5 @@ Este laboratório foi criado com foco em:
 
 ---
 
-## 👨‍💻 Autor
-
-**Bruno Martins da Cruz**  
-Formado em Análise e Desenvolvimento de Sistemas  
-Foco em **Cloud, DevOps e Kubernetes**
-
----
-
 > Projeto desenvolvido para fins de estudo e evolução técnica contínua.
 
